@@ -1,11 +1,11 @@
-var gulp 					= require('gulp');
-var sass 					= require('gulp-sass');
-var notify 				= require('gulp-notify');
-var gutil					= require('gulp-util');
-var gshell				= require('gulp-shell');
-var watch					= require('gulp-watch');
-var sourcemaps 		= require('gulp-sourcemaps'); 
-var autoprefixer 	= require('gulp-autoprefixer');
+var gulp 			= require('gulp');
+var sass 			= require('gulp-sass');
+var notify 			= require('gulp-notify');
+var gutil			= require('gulp-util');
+var gshell			= require('gulp-shell');
+var watch			= require('gulp-watch');
+var sourcemaps 		= require('gulp-sourcemaps');
+var autoprefixer	= require('gulp-autoprefixer');
 
 
 var config = {
